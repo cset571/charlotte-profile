@@ -19,7 +19,7 @@ This repository showcases a selection of projects I have completed over the last
 - **My role:** Algorithm implementation.
 - **Included:** Visualisation of the algorithm, screenshots of outputs and performance illustrations.
 
-### [Control-X](Irrigator-App)
+### [Control-X](Control-X)
 - **Goal:** Mobile website to control farm irrigation systems and create a piece of hardware to enable variable rate irrigation.
 - **My role:** Backend logic, UI integration, and system design.
 - **Included:** Screenshots and project overview.
