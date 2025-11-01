@@ -13,4 +13,5 @@ This was a group project and I was involved in every step of the implementation,
   
 Through this project, I learned that integrating AI into hardware is significantly more complex than software alone, requiring careful iteration, testing, and data preprocessing to achieve reliable results.
 
-A video of the functioning robot has been uploaded in this folder.
+### Demo Video
+Watch the project demo here: [JetBot Traffic Sign AI Video](https://drive.google.com/file/d/1jMPp87t9TbEyn-7B7FC6IKjuzpZ-sffp/view?usp=drive_link)
