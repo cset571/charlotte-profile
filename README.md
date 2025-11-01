@@ -1,4 +1,4 @@
-# Charlotte Setter — Project Portfolio
+# Charlotte Setter - Project Portfolio
 
 This repository showcases a selection of projects I have completed over the last few years. Full source code cannot be shared publicly due to intellectual property and academic integrity, but videos, screenshots, diagrams, and explanations highlight my contributions and technical skills.
 
