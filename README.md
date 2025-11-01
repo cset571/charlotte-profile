@@ -15,7 +15,7 @@ This repository showcases a selection of projects I have completed over the last
 - **Included:** Architectural diagrams.
 
 ### [A* Scheduling Algorithm](AStar-Algorithm)
-- **Goal:** Implement an algorithm to find optimal task schedule across a variable number of processors.
+- **Goal:** Design an algorithm to determine the most efficient task schedule across multiple processors, optimizing performance and resource usage.
 - **My role:** Algorithm implementation and testing.
 - **Included:** Visualisation of the algorithm, screenshots of outputs and performance illustrations.
 
