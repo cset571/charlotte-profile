@@ -10,4 +10,4 @@ This project is still ongoing; the demand from farmers is increasing and alterna
 
 Overall, this project has taught me many skills from electrical and electronic knowledge, hardware, databases, networking, and web development, to working with end users and clients.
 
-In this folder are some screenshots of the mobile website I have developed.
+In this folder are some screenshots of the mobile website I have developed and the RUT956 variable rate irrigation adapter.
